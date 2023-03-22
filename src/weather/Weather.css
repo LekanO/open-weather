@@ -1,0 +1,16 @@
+.Weather {
+  color: white
+}
+.Weather-info {
+  padding: 10px 0px;
+}
+
+.Weather-info-header {
+  padding: 0;
+  margin: 8px;
+}
+
+.Weather-info-description {
+  padding: 0;
+  margin: 2px;
+}
